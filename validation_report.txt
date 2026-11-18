@@ -1,0 +1,20 @@
+AUTOMATED DATA CLEANING REPORT
+========================================
+Date: 2026-11-18 20:26:34.138071
+Original records: 6
+Final records: 4
+Original missing values: 2
+
+VALIDATION DETAILS
+----------------------------------------
+Schema validation: PASSED
+Missing values: 0
+Duplicate records: 0
+Data types:
+name          str
+email         str
+amount    float64
+date          str
+Validation completed successfully.
+
+Final Status: SUCCESS

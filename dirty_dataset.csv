@@ -1,0 +1,8 @@
+
+name,email,amount,date
+Harini,harini@gmail.com,"₹1,000",18-11-2026
+John,john@gmail.com,$500,15-10-2026
+,abc@gmail.com,"₹2,000",15-09-2026
+David,david@gmail.com,,invalid
+John,john@gmail.com,$500,15-10-2026
+Priya,PRIYA@gmail.com,"₹3,500",20-10-2026
